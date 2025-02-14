@@ -9,6 +9,10 @@
 
 Build your own UI library with the flexibility of Tailwind CSS and the convenience of PrimeVue components. See [PrimeVue homepage](https://tailwind.primevue.org/) for live showcase and documentation.
 
+这是一个我想要的很适配的范例，PrimeVue+Tailwind CSS+Nuxt。
+
+这个项目里面自带文档。
+
 ## Download
 
 PrimeVue is available at [npm](https://www.npmjs.com/package/primevue).
